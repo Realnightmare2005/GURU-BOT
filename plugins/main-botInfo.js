@@ -58,13 +58,9 @@ let infobt = `
 *≡ OWNER*
   *GURU*
 ▢ Instagram :
-  • https://instagram.com/asli_guru69
+  • https://instagram.com/poojana_kaveesh_
 ▢ GitHub :
   • https://github.com/Guru322
-▢ Telegram : 
-  • t.me/i_want_to_be_isekaied (GURU) 
-▢ YouTube : 
-  • https://youtube.com/@Asliguru
 
  *≡ S E R V E R*
 *🛑 RAM:* ${format(totalmem() - freemem())} / ${format(totalmem())}
